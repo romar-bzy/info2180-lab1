@@ -1,3 +1,5 @@
 # info2180-lab1
 
-This is lab 1 for <Romar Simms>
+This is lab 1 for Romar Simms
+
+## Branching
